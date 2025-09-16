@@ -1,3 +1,10 @@
+/.vs
+/x64
+/WSCAD/x64
+/WSCAD/Debug
+
+
+
 # Prerequisites
 *.d
 
